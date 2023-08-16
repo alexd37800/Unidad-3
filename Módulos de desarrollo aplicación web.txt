@@ -1,0 +1,10 @@
+Módulos de desarrollo
+
+Módulo Login
+https://github.com/JulioJohan/Social-Hub-Login
+
+Módulo Front-End
+https://github.com/JulioJohan/Social-Hub-Frontend
+
+Módulo Back-End
+https://github.com/JulioJohan/Social-Hub-Backend
